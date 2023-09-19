@@ -13,23 +13,25 @@ h2{
     font-family: cursive;
 }
 .body-text{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background:scroll
+    font-family 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-body {
+    body {
         text-align: center;
         background-image: url('lock.png');
         background-size: cover; 
         background-repeat: no-repeat; 
+        /* color: white; */
     }
     p{
         font-size: xx-large;
     }
     sub{
-      color:black;
+      color:red;
     }
  ol{
     font-size: x-large;
-    color:red;
+    color:white;
  }
  ul{
     color: aliceblue;
