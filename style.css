@@ -16,7 +16,8 @@ h2{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 body {
-        background-image: url('https://cdn.pixabay.com/photo/2018/05/04/17/16/eye-3374462_1280.jpg');
+        text-align: center;
+        background-image: url('lock.png');
         background-size: cover; 
         background-repeat: no-repeat; 
     }
